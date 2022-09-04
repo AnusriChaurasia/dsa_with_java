@@ -1,4 +1,4 @@
-package DSAWithJava;
+package DSAWithJava.SimplePrograms;
 
 import java.util.Scanner;
 
