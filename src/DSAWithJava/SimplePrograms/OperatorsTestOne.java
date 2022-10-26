@@ -13,7 +13,7 @@ public class OperatorsTestOne {
         int y =(a*(b/a));
 
         System.out.println(x+",");
-        System.out.println(y);*/
+        System.out.println(y);
 
         int x = 200, y = 50, z = 100;
         if(x > y && y > z){
@@ -24,6 +24,13 @@ public class OperatorsTestOne {
         }
         if((y+200) > x && (y+150) > z){
             System.out.println("Hello Java");
-        }
+        }*/
+
+        int x, y, z;
+        x = y = z = 2;
+        x += y;
+        y -= z;
+        z /= (x + y);
+        System.out.println(x + " " + y + " " + z);
     }
 }
