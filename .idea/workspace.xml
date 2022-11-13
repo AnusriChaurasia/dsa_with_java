@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a063c4dd-1f76-41dd-b043-4035b0cec549" name="Changes" comment="Added code.">
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/CharacterPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/FloydTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/InvertedRightTriangleLeftAligned.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/NumberPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/RightTriangleLeftAligned.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/BinomialCoefficient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
