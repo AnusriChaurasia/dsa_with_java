@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a063c4dd-1f76-41dd-b043-4035b0cec549" name="Changes" comment="Added code." />
+    <list default="true" id="a063c4dd-1f76-41dd-b043-4035b0cec549" name="Changes" comment="Added code.">
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/BinaryToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/DecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/IsEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/PrimeInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/PrimeOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/SumOfDigitsOfInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668343415839</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added code.">
+      <created>1668360744601</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668360744601</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
