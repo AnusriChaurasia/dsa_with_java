@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a063c4dd-1f76-41dd-b043-4035b0cec549" name="Changes" comment="Added code.">
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/BinaryToDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/DecimalToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/IsEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/PrimeInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/PrimeOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/SumOfDigitsOfInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a063c4dd-1f76-41dd-b043-4035b0cec549" name="Changes" comment="Added code">
+      <change beforePath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668360744601</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added code">
+      <created>1670062154407</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1670062154407</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +165,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding the code." />
     <MESSAGE value="Added code." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code." />
+    <MESSAGE value="Added code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code" />
   </component>
 </project>
