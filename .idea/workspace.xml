@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a063c4dd-1f76-41dd-b043-4035b0cec549" name="Changes" comment="Added code">
-      <change beforePath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSAWithJava/Function/SimpleProbles/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/ButterFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/FloydsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/HollowRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/NumberHalfPyramidInverted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/RightTriangleRightAligned.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/ZeroOnePattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670062154407</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added code">
+      <created>1670090683140</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1670090683140</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
