@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a063c4dd-1f76-41dd-b043-4035b0cec549" name="Changes" comment="Added code">
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/ButterFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/FloydsTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/HollowRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/NumberHalfPyramidInverted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/RightTriangleRightAligned.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/ZeroOnePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/HackerearthArray/GiftsForAlmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/HollowRhombus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/ModifySequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/PalindromeNumPatters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/SolidRhombus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSAWithJava/Patterns/NumberPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/NumberPyramid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670090683140</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Added code">
+      <created>1670748241849</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1670748241849</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
