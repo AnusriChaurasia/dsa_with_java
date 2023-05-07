@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a063c4dd-1f76-41dd-b043-4035b0cec549" name="Changes" comment="Added code">
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/HackerearthArray/GiftsForAlmas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/Diamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/HollowRhombus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/ModifySequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/PalindromeNumPatters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/SolidRhombus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Arrays/ArrayasFuncArug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Arrays/InputOutputArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Arrays/LargestNumInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/HackerearthArray/FindTheString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/HackerearthArray/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSAWithJava/Patterns/NumberPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSAWithJava/Patterns/NumberPyramid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
