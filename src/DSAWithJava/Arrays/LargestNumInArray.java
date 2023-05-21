@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class LargestNumInArray {
     public static void main(String[]args){
-        Scanner s = new Scanner(System.in);
+         Scanner s = new Scanner(System.in);
         int largest = Integer.MIN_VALUE, smallest = Integer.MAX_VALUE;
         int pos=0, ind=0;
         System.out.print("Enter size of array: ");
@@ -29,5 +29,6 @@ public class LargestNumInArray {
 
         System.out.println("The largest value in the array is "+largest+" at index "+pos);
         System.out.print("The smallest value in the array is "+smallest+" at index "+ind);
+
     }
 }

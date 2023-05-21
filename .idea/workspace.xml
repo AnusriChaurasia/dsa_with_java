@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a063c4dd-1f76-41dd-b043-4035b0cec549" name="Changes" comment="Added code">
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Arrays/ArrayasFuncArug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Arrays/InputOutputArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Arrays/LargestNumInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/HackerearthArray/FindTheString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/HackerearthArray/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Arrays/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Arrays/PairsInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Arrays/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Arrays/SubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/Arrays/TrappedWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAWithJava/GFG/FindIndex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSAWithJava/Arrays/LargestNumInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSAWithJava/Arrays/LargestNumInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSAWithJava/HackerearthArray/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSAWithJava/HackerearthArray/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +170,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670748241849</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Added code">
+      <created>1683481366174</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1683481366174</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added code">
+      <created>1683481515255</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1683481515255</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
